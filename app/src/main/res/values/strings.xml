@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Sem02HolaMundo</string>
+    <string name="textView_Censo_DAM_2023">Censo DAM 2023</string>
+    <string name="textView_Formulario_de_Registro">Formulario de Registro</string>
+    <string name="textView_Apellidos_y_Nombre">Apellidos y Nombre</string>
+    <string name="textView_Correo_Electrónico">Correo Electrónico</string>
+    <string name="textView_Clave">Clave</string>
+    <string name="textView_Telefono_de_contacto">Telefono de contacto</string>
+    <string name="textViewFecha_de_Nacimiento">Fecha de Nacimiento</string>
+    <string name="textView_Hora_de_Nacimiento">Hora de Nacimiento</string>
+    <string name="RadioButton_Urbano">Urbano</string>
+    <string name="RadioButton_Rural">Rural</string>
+    <string name="checkbox_Gato">Gato</string>
+    <string name="checkbox_Perro">Perro</string>
+    <string name="checkBoxPollo">Pollo</string>
+    <string name="checkbox_Pato">Pato</string>
+    <string name="checkbox_Otro">Otro</string>
+    <string name="Button_Enviar">Enviar</string>
 </resources>
